@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Motor Cycle",
+      "details": "The project should have started and ended there...",
+      "quantity": "10 Available",
+      "price": 399.99,
+      "image": "https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo="
+    },
+    {
+      "id": 2,
+      "name": "Suzuki Hayabusa",
+      "details": "The project should have started and ended there...",
+      "quantity": "15 Available",
+      "price": 299.99,
+      "image": "https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo="
+    },
+    {
+      "id": 3,
+      "name": "Kawasaki Ninja",
+      "details": "The project should have started and ended there...",
+      "quantity": "20 Available",
+      "price": 149.99,
+      "image": "https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yamaha’s FZ-07",
+      "details": "The project should have started and ended there...",
+      "quantity": "25 Available",
+      "price": 109.99,
+      "image": "https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg"
+    },
+    {
+      "id": 5,
+      "name": "KTM Motor Bikes",
+      "details": "The project should have started and ended there...",
+      "quantity": "10 Available",
+      "price": 209.99,
+      "image": "https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pulsar NS125..",
+      "details": "The project should have started and ended there...",
+      "quantity": "20 Available",
+      "price": 399.99,
+      "image": "https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg"
+    },
+    {
+      "id": 7,
+      "name": "TVS Motors...",
+      "details": "The project should have started and ended there...",
+      "quantity": "15 Available",
+      "price": 299.99,
+      "image": "https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Yamahas FZ-09",
+      "details": "The project should have started and ended there...",
+      "quantity": "25 Available",
+      "price": 149.99,
+      "image": "https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo="
+    },
+    {
+      "id": 9,
+      "name": "KTM Motor Bikes",
+      "details": "The project should have started and ended there...",
+      "quantity": "14 Available",
+      "price": 109.99,
+      "image": "https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo="
+    }
+  ],
+  "add_cart": [
+    {
+      "id": 2,
+      "name": "Suzuki Hayabusa",
+      "details": "The project should have started and ended there...",
+      "quantity": "15 Available",
+      "price": 299.99,
+      "image": "https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo="
+    },
+    {
+      "id": 1,
+      "name": "Motor Cycle",
+      "details": "The project should have started and ended there...",
+      "quantity": "10 Available",
+      "price": 399.99,
+      "image": "https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo="
+    },
+    {
+      "id": 5,
+      "name": "KTM Motor Bikes",
+      "details": "The project should have started and ended there...",
+      "quantity": "10 Available",
+      "price": 209.99,
+      "image": "https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg"
+    }
+  ]
+}
